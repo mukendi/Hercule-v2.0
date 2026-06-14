@@ -43,8 +43,3 @@ Hercules v2.0 is an advanced testing tool that interfaces aggressively with syst
 3. Build the project to output the optimized native binary.
 4. Ensure your isolated environment (`C:\TestLab\`) is populated with testing files.
 5. Execute the binary from a command prompt running under administrative privileges.
-
----
-
-**Author:** Simon Ngoy  
-**Project Association:** Advanced Defensive Evaluation and Performance Validation for Project Kratos
