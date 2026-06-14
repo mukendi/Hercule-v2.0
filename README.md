@@ -28,13 +28,11 @@ To ensure compliance with safety standards and prevent unauthorized execution, H
 
 ## ⚠️ Strict Legal & Ethical Use Disclaimer
 
-{% callout type="warning" title="Legal Notice" %}
 Hercules v2.0 is an advanced testing tool that interfaces aggressively with system file handles. 
 
 1. **Regulatory Compliance:** Execution of this utility must strictly comply with local authorization laws. Unauthorized use on computing systems without explicit written consent from the resource owner is illegal.
 2. **Testing Limitations:** This tool is designed exclusively for closed-loop sandboxes and virtual machines. The author declines all responsibility for data loss, operating system crashes, or operational disruption caused by testing this tool.
 3. **No Weaponization:** Modifying this source code to include real encryption, asymmetric key generation, or network command-and-control capabilities is a violation of the intended research use-case of this repository.
-{% /callout %}
 
 ---
 
